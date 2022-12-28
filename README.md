@@ -8,9 +8,9 @@
 
 - 🤝 I’m looking for help with [AllConnect VPN](https://getallconnect.com)
 
-- 👨‍💻 All of my projects are available at [jackywu.ca](jackywu.ca)
+- 👨‍💻 All of my projects are available at [jackywu.ca](https://jackywu.ca)
 
-- 📝 I regulary write articles on [jackywu.ca](jackywu.ca)
+- 📝 I regulary write articles on [jackywu.ca](https://jackywu.ca)
 
 - 💬 Ask me about **AWS, Firebase, VPN, Serverless, Nodejs, React, React Native, Typescript**
 
