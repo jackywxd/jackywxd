@@ -19,7 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackywxd&show_icons=true&theme=radical" alt="jackywxd" /></p>
 
 <p align="center">
-<a href="https://twitter.com/jackywxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jackywxd" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jackywxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jackywxd" height="30" width="30" /></a>
-<a href="https://fb.com/jackywxd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jackywxd" height="30" width="30" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
