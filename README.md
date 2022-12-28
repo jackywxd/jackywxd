@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacky Wu</h1>
 
-- 🔭 I’m currently working on [AllConnect VPN](https://getallconnect.com/en/)
+- 🔭 I’m currently working for [Heidi Technology](https://heidi.cloud/)
 
 - 🌱 I’m currently learning **kubernetes**
 
