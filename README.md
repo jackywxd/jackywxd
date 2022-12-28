@@ -18,6 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackywxd&show_icons=true&theme=radical" alt="jackywxd" /></p>
 
-<p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackywxd&layout=compact)](https://github.com/jackywxd/github-readme-stats)
