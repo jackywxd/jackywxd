@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jacky Wu</h1>
 
-- 🔭 I’m currently working on [AutoSender](https://apps.apple.com/ca/app/autosender-automatic-texting/id1375015129)
+- 🔭 I’m currently working on [AllConnect VPN](https://getallconnect.com/en/)
 
 - 🌱 I’m currently learning **kubernetes**
 
@@ -12,7 +12,7 @@
 
 - 📝 I regulary write articles on [jackywu.ca](jackywu.ca)
 
-- 💬 Ask me about **AWS, serverless, node, react, typescript, VPN**
+- 💬 Ask me about **AWS, Firebase, VPN, Serverless, Nodejs, React, React Native, Typescript**
 
 - 📫 How to reach me **me@jackywu.ca**
 
