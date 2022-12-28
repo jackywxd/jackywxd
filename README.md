@@ -17,6 +17,3 @@
 - 📫 How to reach me **me@jackywu.ca**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jackywxd&show_icons=true&theme=radical" alt="jackywxd" /></p>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackywxd&layout=compact)](https://github.com/jackywxd/github-readme-stats)
